@@ -1,1 +1,2 @@
 # Detection-and-prediction-of-disease-in-hydroponic-farming
+detecting and predicting disease in hydroponic farming. Using sensor technology and artificial intelligence, we monitor key environmental parameters to identify early disease patterns. Machine learning models and computer vision systems detect and predict outbreaks, allowing for rapid response and reduced chemical interventions, leading to sustainable and efficient hydroponic farming.
